@@ -1,0 +1,16 @@
+[
+    {
+        "firstname":"hassan",
+        "lastname":"hussain",
+        "age":14,
+        "height":5
+
+    },
+
+    {
+        "Car_model": "honda Civic",
+        "Body":"Solid",
+        "weight":"50 pound",
+        "color":"Black"
+    }
+]

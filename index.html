@@ -8,6 +8,27 @@
 </head>
 <body>
     <div id="habib"></div>
-    <script src="script.js"></script>
+
+
+    <script>
+        let student = `[
+    {
+        "firstname":"hassan",
+        "lastname":"hussain",
+        "age":14,
+        "height":5
+
+    },
+
+    {
+        "Car_model": "honda Civic",
+        "Body":"Solid",
+        "weight":"50 pound",
+        "color":"Black"
+    }
+]`
+console.log(JSON.parse(student)[0].firstname)
+    </script>
+    <!-- <script src="script.js"></script> -->
 </body>
 </html>
